@@ -81,6 +81,7 @@
             Controls.Add(btnClientes);
             Name = "Form_Principal";
             Text = "Form_Principal";
+            Load += Form_Principal_Load;
             ResumeLayout(false);
         }
 

@@ -16,5 +16,10 @@ namespace P2GUI
         {
             InitializeComponent();
         }
+
+        private void Form_Principal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

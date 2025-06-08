@@ -43,6 +43,7 @@
             btnlogin.TabIndex = 0;
             btnlogin.Text = "Entrar";
             btnlogin.UseVisualStyleBackColor = true;
+            btnlogin.Click += btnlogin_Click;
             // 
             // textBoxUsuario
             // 

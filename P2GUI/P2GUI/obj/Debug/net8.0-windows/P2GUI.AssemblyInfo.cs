@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P2GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1c9879d484375bc28579f68a0f77732f3c740a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b408b2a32d09f0a5ddbb28cf00322d6931fc969")]
 [assembly: System.Reflection.AssemblyProductAttribute("P2GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P2GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
