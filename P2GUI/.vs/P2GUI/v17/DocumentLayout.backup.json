@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\higor\\source\\repos\\P5GUI\\P2GUI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED45246-442F-4898-9D49-D54FC77DC291}|P2GUI\\P2GUI.csproj|c:\\users\\higor\\source\\repos\\p5gui\\p2gui\\p2gui\\form login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ED45246-442F-4898-9D49-D54FC77DC291}|P2GUI\\P2GUI.csproj|solutionrelative:p2gui\\form login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 437,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\higor\\source\\repos\\P5GUI\\P2GUI\\P2GUI\\Form login.cs",
+              "RelativeDocumentMoniker": "P2GUI\\Form login.cs",
+              "ToolTip": "C:\\Users\\higor\\source\\repos\\P5GUI\\P2GUI\\P2GUI\\Form login.cs [Projeto]",
+              "RelativeToolTip": "P2GUI\\Form login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T22:48:24.307Z",
+              "EditorCaption": " [Projeto]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },
